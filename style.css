@@ -1,6 +1,30 @@
-h1 {
-    color:black;
-}
-body {
-    background-color :peru;
-}
+html , body {
+    margin:0;
+    padding: 0;
+  }
+  #container {
+   background-color: #F5F5DC;
+    border:4 px soild black;
+    width:80%;
+    margin-top: 10 px;
+    margin-left: 20px;
+    padding-left: 20 px;
+    padding-right: 20 px;
+    
+  }
+  
+  h1 {
+    color: #00CED1
+  }
+  p {
+    color :black
+  }
+  h2 {
+    color: #00CED1
+  }
+  hr {
+    border: 2px solid
+  }
+  ul {
+    list-style:decimal-leading-zero ;
+  }
